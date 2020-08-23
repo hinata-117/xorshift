@@ -1,5 +1,5 @@
-# xorshift
-![README](https://img.shields.io/badge/xorshift-Readme-orange)
+# Xorshift
+![README](https://img.shields.io/badge/Xorshift-Readme-orange)
 
 program of Xorshift random number generators
 
