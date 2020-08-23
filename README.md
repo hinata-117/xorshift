@@ -18,7 +18,7 @@ program of Xorshift random number generators
 
 hinata
 
-## Specail Thanks
+## Special Thanks
 My Rust program referred to [enu23456](https://github.com/enu23456/sandbox/tree/master/clanguage)'s program C.
 
 # License
